@@ -1,0 +1,19 @@
+{
+    "name": "transpose/transpose",
+    "description": "A utility package adding a transpose function to arrays, interchanging array indices.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pete McFarlane",
+            "email": "peterjohnmcfarlane@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+        "files": [
+            "src/Transpose/transpose.php"
+        ]
+    }
+}
