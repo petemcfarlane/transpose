@@ -1,6 +1,6 @@
 <?php
 
-use function Transpose\transpose;
+use function PeteMc\Transpose\transpose;
 
 class TransposeTest extends PHPUnit_Framework_TestCase
 {

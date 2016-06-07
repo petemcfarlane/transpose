@@ -1,6 +1,6 @@
 {
-    "name": "transpose/transpose",
-    "description": "A utility package adding a transpose function to arrays, interchanging array indices.",
+    "name": "petemc/transpose",
+    "description": "A utility package adding a transpose function to multi-dimensional arrays, interchanging array indices.",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "files": [
-            "src/Transpose/transpose.php"
+            "src/PeteMc/Transpose/transpose.php"
         ]
     }
 }

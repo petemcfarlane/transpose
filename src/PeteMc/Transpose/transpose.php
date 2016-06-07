@@ -1,6 +1,6 @@
 <?php
 
-namespace Transpose;
+namespace PeteMc\Transpose;
 
 /**
  * Transpose each item in an associative array, interchanging the row and column indexes

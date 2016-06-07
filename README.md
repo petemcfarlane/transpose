@@ -1,17 +1,17 @@
 [![Build Status](https://travis-ci.org/petemcfarlane/transpose.svg?branch=v1.0.0)](https://travis-ci.org/petemcfarlane/transpose)
-[![Latest Stable Version](https://poser.pugx.org/transpose/transpose/v/stable)](https://packagist.org/packages/transpose/transpose)
-[![License](https://poser.pugx.org/transpose/transpose/license)](https://packagist.org/packages/transpose/transpose)
+[![Latest Stable Version](https://poser.pugx.org/transpose/transpose/v/stable)](https://packagist.org/packages/petemc/transpose)
+[![License](https://poser.pugx.org/transpose/transpose/license)](https://packagist.org/packages/petemc/transpose)
 
 # transpose
 
 Adds transpose function for multi-dimensional arrays, interchanging row/column indices.
 
-## Example 1
+## Example
 
 ```php
 <?php
 
-use function Transpose\transpose;
+use function PeteMc\Transpose\transpose;
 
 $input = [
     'names' => ['adam', 'ben', 'claire'],
