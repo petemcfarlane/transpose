@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/transpose/transpose.svg?branch=master)](https://travis-ci.org/petemcfarlane/transpose)
+[![Build Status](https://travis-ci.org/petemcfarlane/transpose.svg?branch=v1.0.0)](https://travis-ci.org/petemcfarlane/transpose)
 [![Latest Stable Version](https://poser.pugx.org/transpose/transpose/v/stable)](https://packagist.org/packages/transpose/transpose)
 [![License](https://poser.pugx.org/transpose/transpose/license)](https://packagist.org/packages/transpose/transpose)
 
